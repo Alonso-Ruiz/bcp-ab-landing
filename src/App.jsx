@@ -4,11 +4,10 @@ import Banner from './components/Banner/Banner';
 import Benefits from './components/Benefits/Benefits';
 import Form from './components/Form/Form';
 import Footer from './components/Footer/Footer';
-import styles from './App.module.css';
 
 function App() {
   return (
-    <div className={styles.app}>
+    <div className="min-h-screen flex flex-col">
       <Header />
       <Banner />
       <Benefits />

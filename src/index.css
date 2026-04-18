@@ -1,10 +1,1 @@
-:root {
-  --color-blue: #003DA6;
-  --color-orange: #FF6600;
-  --color-white: #FFFFFF;
-  --color-gray-light: #F5F5F5;
-  --color-gray-dark: #333333;
-  --font-main: 'Segoe UI', Arial, sans-serif;
-}
-*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-body { font-family: var(--font-main); color: var(--color-gray-dark); background: var(--color-white); }
+@import "tailwindcss";
