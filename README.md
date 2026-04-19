@@ -20,7 +20,13 @@ Validar qué variante del banner genera mayor CTR y tasa de envío del formulari
 
 <img width="1311" height="653" alt="image" src="https://github.com/user-attachments/assets/902e2fcb-aaf2-434c-81c1-8ad52d902e51" />
 
+<img width="1067" height="495" alt="image" src="https://github.com/user-attachments/assets/1a9b9a89-ed92-4a4b-9dd4-234f249c5ccf" />
+
+
+
 <img width="1312" height="653" alt="image" src="https://github.com/user-attachments/assets/7be54f0c-298b-4773-b949-20d48be37403" />
+
+<img width="998" height="513" alt="image" src="https://github.com/user-attachments/assets/9b2cf33c-377b-4899-bf79-5357d96fa781" />
 
 <!-- Agrega aquí la captura de la Variante A -->
 
