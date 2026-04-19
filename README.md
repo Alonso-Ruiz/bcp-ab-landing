@@ -18,11 +18,14 @@ Validar qué variante del banner genera mayor CTR y tasa de envío del formulari
 | A | Azul #003DA6 | "Solicita ahora" | Banner azul |
 | B | Naranja #FF6600 | "Aplica ya" | Banner naranja |
 
+Variante A:
+
 <img width="1311" height="653" alt="image" src="https://github.com/user-attachments/assets/902e2fcb-aaf2-434c-81c1-8ad52d902e51" />
 
 <img width="1067" height="495" alt="image" src="https://github.com/user-attachments/assets/1a9b9a89-ed92-4a4b-9dd4-234f249c5ccf" />
 
 
+Variante B:
 
 <img width="1312" height="653" alt="image" src="https://github.com/user-attachments/assets/7be54f0c-298b-4773-b949-20d48be37403" />
 
@@ -74,7 +77,6 @@ bcp-ab-landing/
 Variante A:
 
 <img width="1319" height="273" alt="image" src="https://github.com/user-attachments/assets/67cf2493-e455-4f11-9e66-06607d94b435" />
-
 
 
 Variante B:
