@@ -16,9 +16,9 @@ Validar qué variante del banner genera mayor CTR y tasa de envío del formulari
 | A | Azul #003DA6 | "Solicita ahora" | Banner azul institucional |
 | B | Naranja #FF6600 | "Aplica ya" | Banner naranja de alto contraste |
 
-<img width="1319" height="273" alt="image" src="https://github.com/user-attachments/assets/67cf2493-e455-4f11-9e66-06607d94b435" />
+<img width="1311" height="653" alt="image" src="https://github.com/user-attachments/assets/902e2fcb-aaf2-434c-81c1-8ad52d902e51" />
 
-<img width="1325" height="299" alt="image" src="https://github.com/user-attachments/assets/fb007be3-2654-4eac-960f-94b0a5a50af5" />
+<img width="1312" height="653" alt="image" src="https://github.com/user-attachments/assets/7be54f0c-298b-4773-b949-20d48be37403" />
 
 <!-- Agrega aquí la captura de la Variante A -->
 
@@ -62,6 +62,11 @@ bcp-ab-landing/
 | experiment_event | experiment_viewed | Al cargar el banner | A o B |
 | experiment_event | click_cta | Al hacer click en el CTA | A o B |
 | experiment_event | form_submit | Al enviar el formulario exitosamente | A o B |
+
+<img width="1319" height="273" alt="image" src="https://github.com/user-attachments/assets/67cf2493-e455-4f11-9e66-06607d94b435" />
+
+
+<img width="1325" height="299" alt="image" src="https://github.com/user-attachments/assets/fb007be3-2654-4eac-960f-94b0a5a50af5" />
 
 <!-- Agrega aquí la captura de los eventos en la consola (window.dataLayer) -->
 
