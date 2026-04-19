@@ -16,6 +16,10 @@ Validar qué variante del banner genera mayor CTR y tasa de envío del formulari
 | A | Azul #003DA6 | "Solicita ahora" | Banner azul institucional |
 | B | Naranja #FF6600 | "Aplica ya" | Banner naranja de alto contraste |
 
+<img width="1319" height="273" alt="image" src="https://github.com/user-attachments/assets/67cf2493-e455-4f11-9e66-06607d94b435" />
+
+<img width="1325" height="299" alt="image" src="https://github.com/user-attachments/assets/fb007be3-2654-4eac-960f-94b0a5a50af5" />
+
 <!-- Agrega aquí la captura de la Variante A -->
 
 <!-- Agrega aquí la captura de la Variante B -->
