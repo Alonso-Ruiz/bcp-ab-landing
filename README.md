@@ -2,6 +2,7 @@
 
 ## 🔗 Demo en vivo
 URL: [https://alonso-ruiz.github.io/bcp-ab-landing/](https://alonso-ruiz.github.io/bcp-ab-landing/)
+
 Para ver la variante B abrir en modo incógnito
 
 ## 💡 Hipótesis del experimento
