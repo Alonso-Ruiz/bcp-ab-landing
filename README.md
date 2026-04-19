@@ -2,6 +2,7 @@
 
 ## 🔗 Demo en vivo
 URL: [https://alonso-ruiz.github.io/bcp-ab-landing/](https://alonso-ruiz.github.io/bcp-ab-landing/)
+Para ver la variante B abrir en modo incógnito
 
 ## 💡 Hipótesis del experimento
 "Modificar el color y mensaje del banner principal puede aumentar el porcentaje de clics (CTR) hacia el formulario de solicitud de tarjeta de crédito."
@@ -13,8 +14,8 @@ Validar qué variante del banner genera mayor CTR y tasa de envío del formulari
 
 | Variante | Color | CTA | Descripción |
 |---|---|---|---|
-| A | Azul #003DA6 | "Solicita ahora" | Banner azul institucional |
-| B | Naranja #FF6600 | "Aplica ya" | Banner naranja de alto contraste |
+| A | Azul #003DA6 | "Solicita ahora" | Banner azul |
+| B | Naranja #FF6600 | "Aplica ya" | Banner naranja |
 
 <img width="1311" height="653" alt="image" src="https://github.com/user-attachments/assets/902e2fcb-aaf2-434c-81c1-8ad52d902e51" />
 
