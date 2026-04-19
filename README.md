@@ -71,8 +71,12 @@ bcp-ab-landing/
 | experiment_event | click_cta | Al hacer click en el CTA | A o B |
 | experiment_event | form_submit | Al enviar el formulario exitosamente | A o B |
 
+Variante A:
+
 <img width="1319" height="273" alt="image" src="https://github.com/user-attachments/assets/67cf2493-e455-4f11-9e66-06607d94b435" />
 
+
+Variante B:
 
 <img width="1325" height="299" alt="image" src="https://github.com/user-attachments/assets/fb007be3-2654-4eac-960f-94b0a5a50af5" />
 
